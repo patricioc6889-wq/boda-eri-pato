@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "http://147.224.219.253:5678/webhook/:path*" }
+  ]
+}
