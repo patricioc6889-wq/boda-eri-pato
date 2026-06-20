@@ -1,0 +1,22 @@
+CARPETA DE FOTOS DE LA GALERÍA
+==============================
+
+Subí acá tus 8 fotos con ESTOS nombres exactos (así coinciden con el config de B2):
+
+  foto-01.jpg
+  foto-02.jpg
+  foto-03.jpg
+  foto-04.jpg
+  foto-05.jpg
+  foto-06.jpg
+  foto-07.jpg
+  foto-08.jpg
+
+- Formato: .jpg (o cambiá la extensión en B2 si usás .png/.webp).
+- Tamaño sugerido: ~1200px de lado más largo, < 400 KB c/u (para que carguen rápido).
+- Orientación: la galería las muestra en vertical (3:4). Las horizontales se recortan al centro.
+
+Si subís menos de 8, las que falten muestran el placeholder rayado (no rompe nada).
+
+Después de subirlas y desplegar, pegá en la celda B2 el contenido de:
+  n8n/config B2 - eri-pato (con fotos y musica).txt

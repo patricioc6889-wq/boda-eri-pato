@@ -1,0 +1,14 @@
+CARPETA DE MÚSICA DE FONDO
+==========================
+
+Subí acá el archivo de audio con ESTE nombre exacto:
+
+  cancion.mp3
+
+- Tiene que ser un ARCHIVO de audio (.mp3). Un link de YouTube NO funciona.
+- Usá una canción de la que tengas los derechos / sea para uso personal del evento.
+- La música arranca sola cuando el invitado abre el sobre (con botón para silenciar).
+
+Después de subirla y desplegar, pegá en la celda B2 el contenido de:
+  n8n/config B2 - eri-pato (con fotos y musica).txt
+(ahí "music.source" ya apunta a music/cancion.mp3)
